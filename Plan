@@ -1,0 +1,13 @@
+plan
+
+1. seed file add comments
+2. in the post array - include comments
+3. put in a event for getting comments
+    this is from the postview - by adding a comment box
+4. in the post view
+      create comments
+      create comments view
+      fetch all comments
+5. in commentsview - put in an event for rendering comment view
+6. change controller to only return the comments for a particular post
+7. add a template to show comments in appview
